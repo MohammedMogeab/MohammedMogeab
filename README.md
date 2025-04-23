@@ -15,3 +15,11 @@ This is Mohammed Mogeab Ahmed Al-hajj
   <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="50" height="50" />
 </p>
 
+## 👷 Work experience
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Frontend" src="https://www.tryexponent.com/_next/static/media/logo.58b2f326.svg"/>](https://github.com/MohammedMogeab/)
+**Bug Hunter (Freelancer)** \
+[**work**](https://github.com/bhza/) • Part-time / Contract
+<br/>
+Tested the website manually and reported all bugs found.  
