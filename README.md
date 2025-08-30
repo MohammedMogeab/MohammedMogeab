@@ -13,6 +13,14 @@ This is Mohammed Mogeab Ahmed Al-hajj
   <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="50" height="50" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="50" height="50" />
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="50" height="50" />
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="50" height="50" />
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.svgporn.com/logos/expo.svg" alt="expo" width="80" height="80" />
+   &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.svgporn.com/logos/docker.svg" alt="docker" width="100" height="100" />
 </p>
 
 ## 👷 Work experience
