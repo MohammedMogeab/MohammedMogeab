@@ -1,26 +1,12 @@
 ## Hi there 👋
 This is Mohammed Mogeab Ahmed Al-hajj
 
+
+
 <h3 align="center">💻 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://cdn.svgporn.com/logos/spring.svg" alt="Spring" width="100" height="50" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.svgporn.com/logos/hibernate.svg" alt="Hibernate" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="50" height="50" />
-    &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="50" height="50" />
-    &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="50" height="50" />
-    &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.svgporn.com/logos/expo.svg" alt="expo" width="80" height="80" />
-   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.svgporn.com/logos/docker.svg" alt="docker" width="100" height="100" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,git,java,mysql,go,react,expo,docker,kubernetes,laravel,nextjs,helm,ansible" />
 </p>
 
 ## 👷 Work experience
